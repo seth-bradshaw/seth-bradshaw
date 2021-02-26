@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hello 👋 
 ### Hi, I'm Seth! I'm a software engineer who is passionate about making the world a better place through technology. My ultimate career goal is to work in green-tech developing technology that will help us combat climate change.
 
 ### Getting in touch ☎:
