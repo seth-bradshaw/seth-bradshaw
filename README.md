@@ -4,7 +4,6 @@
 ### Getting in touch ☎:
 ###  • [De La Terre Devs](https://www.delaterredevs.com/) - Developing real projects for real people 🔨
 ###  • [LinkedIn](https://www.linkedin.com/in/seth-bradshaw/) - Sharing updates 📝
-###  • LINK TO BLOG - Writing daily updates throughout my coding journey 💻
 <!--
 **seth-bradshaw/seth-bradshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
