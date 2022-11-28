@@ -1,8 +1,7 @@
 ### Hello 👋 
-### I'm Seth and I am a software engineer who is passionate about making the world a better place through technology. My ultimate career goal is to work in green-tech developing technology that will help us combat climate change.
+### I'm Seth and I am a software engineer who is passionate about making the world a better place through technology. My ultimate career goal is to work in green-tech developing technology that will help us better understand and combat climate change.
 
 ### Getting in touch ☎:
-###  • [Resume](https://sethbradshaw27.wixsite.com/website) 
 ###  • [LinkedIn](https://www.linkedin.com/in/seth-bradshaw/) 
 <!--
 **seth-bradshaw/seth-bradshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
