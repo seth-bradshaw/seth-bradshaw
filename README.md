@@ -1,5 +1,5 @@
 ### Hello 👋 
-### I'm Seth and I am a software engineer who is passionate about making the world a better place through technology. My ultimate career goal is to work in green-tech developing technology that will help us better understand and combat climate change.
+### I'm Seth and I'm committed to using my skills as a software engineer to make a positive impact on the lives of others. I am open to positions, and projects which do so. Ultimately, my career goal is to accomplish this by developing technology that addresses important challenges such as climate change and space exploration.
 
 ### Getting in touch ☎:
 ###  • [LinkedIn](https://www.linkedin.com/in/seth-bradshaw/) 
